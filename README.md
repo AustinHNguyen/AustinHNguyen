@@ -38,7 +38,7 @@ I have a passion in cybersecurity and am willing to work extremely hard if given
 
 ### Cloud
 <div>
-    <img src="https://img.shields.io/badge/-Amazon_AWS-232F3E?&style=for-the-badge&logo=AmazonAWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Amazon_AWS_EC2-FF9900?&style=for-the-badge&logo=AmazonAWS&logoColor=white" />
 </div>
 
 ## Certifications
