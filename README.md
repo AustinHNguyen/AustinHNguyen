@@ -46,5 +46,6 @@ I have a passion in cybersecurity and am willing to work extremely hard if given
 </div>
 
 ## Projects
-- 
-- 
+- EDR Homelab simulating both attack and defense
+- SOC on Microsoft Azure
+- OpenFlow Based Firewall
