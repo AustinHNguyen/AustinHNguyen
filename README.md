@@ -30,13 +30,13 @@ I have a passion in cybersecurity and am willing to work extremely hard if given
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-005C97?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
 ### Cloud
 <div>
     <img src="https://img.shields.io/badge/-Amazon_AWS_EC2-FF9900?&style=for-the-badge&logo=AmazonAWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=MicrosoftAzure&logoColor=white"
 </div>
 
 ## Certifications
