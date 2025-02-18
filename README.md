@@ -25,6 +25,7 @@ I have a passion in cybersecurity and am willing to work extremely hard if given
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LimaCharlie_EDR-14213D?&style=for-the-badge&logo=LimaCharlie&logoColor=white" />
 </div>
 
 ### SIEM
