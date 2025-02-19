@@ -9,8 +9,8 @@ I have a passion in cybersecurity and am willing to work extremely hard if given
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/AustinHNguyen/MSA_SOC">Microsoft Azure SOC</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Firewall Setup and Configuration         | <a href="https://github.com/AustinHNguyen/BlueTeamHomelab">Blue team Homelab</a>|
+| EDR Rule Creation and Implementation | <a href="https://google.com](https://github.com/AustinHNguyen/EDRHomelab">EDR Homelab</a>|
+| Network Fundamentals and Firewall Configuration        | <a href="https://github.com/AustinHNguyen/BlueTeamHomelab">Blue team Homelab</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
