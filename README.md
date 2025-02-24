@@ -45,8 +45,3 @@ I have a passion in cybersecurity and am willing to work extremely hard if given
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certification-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>
-
-## Projects
-- EDR Homelab simulating both attack and defense
-- SOC on Microsoft Azure
-- OpenFlow Based Firewall
